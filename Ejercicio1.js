@@ -27,4 +27,4 @@ const ordenadas = unicas.sort((a, b) => {
 });
 
 // Mostrar el resultado en pantalla
-alert('Palabras ordenadas de la Z a la A:\n' + palabrasOrdenadas.join(', '));
+alert('Palabras ordenadas de la Z a la A:\n' + ordenadas.join(', '));
